@@ -1,0 +1,2 @@
+# ortalama-hesab-
+not ortalamaları
